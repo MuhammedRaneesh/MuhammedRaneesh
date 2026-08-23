@@ -1,79 +1,159 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:041F1C,45:07584F,100:13A085&text=Muhammed%20Raneesh&fontColor=ffffff&fontSize=48&fontAlignY=35&animation=fadeIn"/>
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:052E2B,45:07584F,100:16A085&height=190&section=header&text=Muhammed%20Raneesh&fontSize=45&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn"
+width="100%"
+/>
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=0F8B72&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Building+scalable+web+applications;Turning+ideas+into+real+products"
-    alt="Typing SVG"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=0F8B72&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Building+modern+web+applications;From+ideas+to+real+products"
+    alt="Typing animation"
   />
 </a>
 
-<br/>
-
-<a href="https://www.linkedin.com/in/muhammed-raneesh-k">
-  <img src="https://img.shields.io/badge/LinkedIn-07584F?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:raneeshramankulam@gmail.com">
-  <img src="https://img.shields.io/badge/Email-07584F?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/MuhammedRaneesh">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
 </div>
 
 <br/>
 
-## 👋 About Me
+<img
+align="right"
+alt="Developer coding"
+width="310"
+src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif?raw=true"
+/>
 
-I'm **Muhammed Raneesh**, a Full Stack Developer from Kerala, India.
+### 👋 Hey, I'm Muhammed Raneesh
 
-I build modern web applications across the complete stack — from responsive frontend experiences to APIs, authentication, databases, and application architecture.
+I'm a **Full Stack Developer** from Kerala, India 🇮🇳.
 
-Currently focused on building **production-style SaaS applications** with TypeScript, Next.js and Node.js.
+I enjoy building complete web applications — from polished frontend experiences to APIs, authentication, databases and backend architecture.
 
-<br/>
+My main focus is **TypeScript, React, Next.js and Node.js**, while continuously improving how I design and structure production-style applications.
 
-## ⚡ Tech Stack
+Currently building **Nesteeq**, a multi-tenant SaaS platform for apartment and residential community management.
 
-<div align="center">
+<br clear="right"/>
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,express,mongodb,redis&theme=dark" />
+---
 
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode&theme=dark" />
-
-</div>
-
-<br/>
-
-## 🚀 Currently Building
+## ⚙️ Technology Stack
 
 <table>
 <tr>
-<td width="100%">
+<td width="50%" valign="top">
 
-### 🏢 Nesteeq
+### 💻 Languages
 
-**A modern multi-tenant apartment management SaaS.**
+<br/>
 
-Nesteeq brings apartment operations into a single platform with role-based experiences for management, residents, security and maintenance teams.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js&theme=dark" />
+</p>
 
-`Next.js` `TypeScript` `Node.js` `Express` `MongoDB` `Redis` `Socket.IO`
+<p align="center">
+  <b>TypeScript &nbsp;•&nbsp; JavaScript</b>
+</p>
 
-**Building around**
+</td>
 
-`Multi-Tenancy` · `Authentication` · `RBAC` · `Residents` · `Staff` · `Maintenance` · `Billing` · `Visitors` · `Notifications`
+<td width="50%" valign="top">
+
+### 🎨 Frontend
+
+<br/>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
+</p>
+
+<p align="center">
+  <b>React &nbsp;•&nbsp; Next.js &nbsp;•&nbsp; Tailwind CSS</b>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ Backend
+
+<br/>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+</p>
+
+<p align="center">
+  <b>Node.js &nbsp;•&nbsp; Express.js</b>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🗄️ Database & Infrastructure
+
+<br/>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,redis&theme=dark" />
+</p>
+
+<p align="center">
+  <b>MongoDB &nbsp;•&nbsp; Redis &nbsp;•&nbsp; Socket.IO</b>
+</p>
 
 </td>
 </tr>
 </table>
 
+### 🧰 Development Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" />
+
+<br/><br/>
+
+`TanStack Query`  •  `React Hook Form`  •  `Zod`  •  `Better Auth`  •  `Mongoose`
+
+</div>
+
+---
+
+## 🚀 Featured Project
+
+<div align="center">
+
+### 🏢 Nesteeq
+
+**Multi-Tenant Apartment Management SaaS**
+
+`Next.js`   `TypeScript`   `Node.js`   `Express`   `MongoDB`   `Redis`
+
+</div>
+
 <br/>
+
+Nesteeq is a full-stack platform I'm building to bring apartment community operations into one centralized system.
+
+It includes role-based experiences for property management, residents, staff, security and maintenance teams.
+
+<div align="center">
+
+`Multi-Tenancy`
+
+`Authentication`   `RBAC`   `Resident Management`   `Staff Management`
+
+`Complaints`   `Maintenance`   `Billing & Payments`
+
+`Visitors`   `Parking`   `Notifications`   `Reports`
+
+</div>
+
+---
 
 ## 📊 GitHub
 
@@ -81,49 +161,63 @@ Nesteeq brings apartment operations into a single platform with role-based exper
 
 <img
 width="48%"
-src="https://github-readme-stats.vercel.app/api?username=MuhammedRaneesh&show_icons=true&hide_border=true&bg_color=00000000&title_color=0F8B72&icon_color=0F8B72&text_color=777777&rank_icon=github"
+src="https://github-readme-stats.vercel.app/api?username=MuhammedRaneesh&show_icons=true&hide_border=true&bg_color=00000000&title_color=0F8B72&icon_color=0F8B72&text_color=777777&ring_color=0F8B72"
 />
 
 <img
 width="48%"
-src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammedRaneesh&hide_border=true&background=00000000&ring=0F8B72&fire=13A085&currStreakLabel=0F8B72&sideLabels=777777&currStreakNum=777777&sideNums=777777&dates=777777"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedRaneesh&layout=compact&hide_border=true&bg_color=00000000&title_color=0F8B72&text_color=777777"
 />
 
 </div>
 
-<br/>
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
 
-### Contribution Activity
+<a href="https://www.linkedin.com/in/muhammed-raneesh-k">
+  <img src="https://img.shields.io/badge/LinkedIn-Muhammed%20Raneesh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/MuhammedRaneesh/MuhammedRaneesh/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/MuhammedRaneesh/MuhammedRaneesh/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/MuhammedRaneesh/MuhammedRaneesh/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=MuhammedRaneesh&label=Profile%20Views&color=07584F&style=flat-square"/>
+<a href="https://github.com/MuhammedRaneesh">
+  <img src="https://img.shields.io/badge/GitHub-MuhammedRaneesh-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 <br/><br/>
 
-**Building · Learning · Shipping**
+<a href="https://leetcode.com/u/_MuhammedRaneesh_/">
+  <img src="https://img.shields.io/badge/LeetCode-_MuhammedRaneesh_-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:13A085,50:07584F,100:041F1C"/>
+<a href="https://www.instagram.com/_raneeshx_/">
+  <img src="https://img.shields.io/badge/Instagram-_raneeshx_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<a href="mailto:raneeshramankulam@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-07584F?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<img src="https://img.shields.io/badge/Discord-raneeshff8932-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 
 </div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=MuhammedRaneesh&label=Profile%20Views&color=07584F&style=flat-square" />
+
+<br/><br/>
+
+<sub>Building thoughtful software, one feature at a time.</sub>
+
+</div>
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:16A085,55:07584F,100:052E2B&height=100&section=footer"
+width="100%"
+/>
