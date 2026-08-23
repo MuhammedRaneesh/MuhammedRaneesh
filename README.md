@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F6E56,100:0A4A3B&height=260&section=header&text=Muhammed%20Raneesh&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Backend-Focused%20Engineer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A4A3B,50:0F6E56,100:14A085&height=280&section=header&text=Muhammed%20Raneesh&fontSize=64&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20Backend-Focused%20Engineer&descAlignY=55&descSize=21&descColor=E8FFF8" width="100%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0F6E56&center=true&vCenter=true&width=800&lines=Building+Nesteeq+%E2%80%94+Multi-Tenant+Apartment+SaaS;Node.js+%2B+TypeScript+%2B+MongoDB+%2B+Next.js;Self-Taught+%7C+Kerala%2C+India+%7C+%23LearningInPublic;Currently+Open+to+Backend%2FFull-Stack+Roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0F6E56&center=true&vCenter=true&width=800&lines=Building+Nesteeq+%E2%80%94+Multi-Tenant+Apartment+SaaS;Node.js+%2B+TypeScript+%2B+MongoDB+%2B+Next.js;Kerala%2C+India+%7C+%23LearningInPublic;Currently+Open+to+Backend%2FFull-Stack+Roles" alt="Typing SVG" />
 
 <br/>
 
@@ -16,6 +16,8 @@
 <img src="https://img.shields.io/github/followers/MuhammedRaneesh?label=Followers&style=for-the-badge&color=0F6E56" alt="followers"/>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F6E56,100:14A085&height=3&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -39,15 +41,55 @@ const raneesh = {
 ```
 
 - 🔭 **Currently building:** [Nesteeq](https://github.com/M32-Technologies) — role-based dashboards, invite systems with SHA-256 hashed tokens, cross-database resident lookups, and Better Auth-powered sessions
-- 🧠 **Deepening:** Node.js internals, TypeScript, and scalable system design
-- 📚 **Learning path:** worked through DSA fundamentals, TypeScript from first principles, and the Next.js App Router — 2 hrs/day, structured and disciplined
-- 🌱 **Sharing publicly:** breaking down what I learn and build on LinkedIn
-- 🎯 **Actively job hunting** while employed — always up for a conversation
+- 🧠 **Specializing in:** Node.js, TypeScript, and scalable backend/system architecture
+- 🌱 **Sharing publicly:** breaking down what I learn and build on LinkedIn under #LearningInPublic
+- 🤝 **Open to:** backend/full-stack roles, collaborations, and interesting technical conversations
 - ⚡ **Fun fact:** I'll happily talk your ear off about F1 strategy or the Mariana Trench
 
 <br clear="right"/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F6E56,100:14A085&height=2&animation=fadeIn" width="100%"/>
+
+## 🧭 Experience
+
+<table>
+<tr>
+<td width="18%"><b>Present</b></td>
+<td width="82%">
+<b>MERN Stack Developer</b> · Bridgeon Solutions LLP<br/>
+Building full-stack JavaScript/TypeScript products across the MERN ecosystem, with a strong lean toward backend architecture and API design.
+</td>
+</tr>
+<tr>
+<td><b>Ongoing</b></td>
+<td>
+<b>Founder / Lead Developer</b> · Nesteeq (M32 Technologies)<br/>
+Designing and building a multi-tenant apartment management SaaS from the ground up — architecture, auth, and role-based systems for 8 distinct user roles.
+</td>
+</tr>
+<tr>
+<td><b>Origin</b></td>
+<td>
+<b>WeCode Community</b><br/>
+Built STRIDE, my foundational full-stack project, establishing the coding patterns and engineering discipline I still build on today.
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F6E56,100:14A085&height=2&animation=fadeIn" width="100%"/>
+
+## 💡 Why Work With Me
+
+<table>
+<tr>
+<td align="center" width="25%">🏗️<br/><b>Architecture-First</b><br/><sub>I design before I code — clean, scalable systems over quick hacks</sub></td>
+<td align="center" width="25%">🔐<br/><b>Security-Minded</b><br/><sub>Hashed tokens, HMAC verification, httpOnly sessions — by default</sub></td>
+<td align="center" width="25%">📦<br/><b>Ships End-to-End</b><br/><sub>Comfortable owning a feature from schema to UI to deployment</sub></td>
+<td align="center" width="25%">🗣️<br/><b>Builds in Public</b><br/><sub>Documents and shares real progress — not just polished results</sub></td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F6E56,100:14A085&height=2&animation=fadeIn" width="100%"/>
 
 ## 🛠️ Tech Stack
 
@@ -117,7 +159,7 @@ const raneesh = {
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F6E56,100:14A085&height=2&animation=fadeIn" width="100%"/>
 
 ## 🚀 Featured Projects
 
@@ -172,7 +214,7 @@ Browse the rest of my work — experiments, learning repos, and in-progress buil
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F6E56,100:14A085&height=2&animation=fadeIn" width="100%"/>
 
 ## 📊 GitHub Analytics
 
@@ -191,7 +233,7 @@ Browse the rest of my work — experiments, learning repos, and in-progress buil
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F6E56,100:14A085&height=2&animation=fadeIn" width="100%"/>
 
 ## 🏆 Trophies
 
@@ -201,7 +243,7 @@ Browse the rest of my work — experiments, learning repos, and in-progress buil
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F6E56,100:14A085&height=2&animation=fadeIn" width="100%"/>
 
 ## 🐍 Contribution Snake
 
@@ -213,7 +255,7 @@ Browse the rest of my work — experiments, learning repos, and in-progress buil
 
 > ⚙️ This animated snake eats your contribution graph! It needs a one-time GitHub Action setup — instructions below.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F6E56,100:14A085&height=2&animation=fadeIn" width="100%"/>
 
 ## 📈 Contribution Graph
 
@@ -223,7 +265,7 @@ Browse the rest of my work — experiments, learning repos, and in-progress buil
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F6E56,100:14A085&height=2&animation=fadeIn" width="100%"/>
 
 ## 📫 Let's Connect
 
@@ -241,4 +283,4 @@ Browse the rest of my work — experiments, learning repos, and in-progress buil
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A4A3B,100:0F6E56&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:14A085,50:0F6E56,100:0A4A3B&height=150&section=footer&animation=twinkling" width="100%"/>
