@@ -2,18 +2,12 @@
 
 <img
 width="100%"
-src="https://capsule-render.vercel.app/api?type=rect&height=260&color=0:1A1A2E,50:16213E,100:0F3460&text=Muhammed%20Raneesh&fontColor=FFFFFF&fontSize=48&fontAlignY=30&animation=fadeIn"
-/>
-
-<img
-width="100%"
-height="70"
-src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:0F3460,100:0F3460"
+src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:1A1A2E,50:16213E,100:0F3460&text=Muhammed%20Raneesh&fontColor=FFFFFF&fontSize=48&fontAlignY=45&animation=fadeIn"
 />
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=39E6B4&background=0F3460&center=true&vCenter=true&width=1000&height=70&lines=Full+Stack+Developer;Building+modern+web+applications;Turning+ideas+into+real+products"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=39E6B4&background=0F3460&center=true&vCenter=true&width=1000&height=60&lines=Full+Stack+Developer;Building+modern+web+applications;Turning+ideas+into+real+products"
     alt="Typing animation"
   />
 </a>
