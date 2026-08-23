@@ -1,83 +1,129 @@
 <div align="center">
 
-# Muhammed Raneesh
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:041F1C,45:07584F,100:13A085&text=Muhammed%20Raneesh&fontColor=ffffff&fontSize=48&fontAlignY=35&animation=fadeIn"/>
 
-### Full Stack Developer
-
-Kerala, India 🇮🇳
-
-Building modern web applications with **TypeScript, React, Next.js, Node.js and MongoDB**.
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=0F8B72&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Building+scalable+web+applications;Turning+ideas+into+real+products"
+    alt="Typing SVG"
+  />
+</a>
 
 <br/>
 
-<a href="mailto:raneeshramankulam@gmail.com">
-  <img src="https://img.shields.io/badge/Email-07584F?style=flat-square&logo=gmail&logoColor=white" />
-</a>
 <a href="https://www.linkedin.com/in/muhammed-raneesh-k">
-  <img src="https://img.shields.io/badge/LinkedIn-07584F?style=flat-square&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-07584F?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:raneeshramankulam@gmail.com">
+  <img src="https://img.shields.io/badge/Email-07584F?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/MuhammedRaneesh">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
----
+<br/>
 
-### About
+## 👋 About Me
 
-I'm a full-stack developer focused on building clean, scalable and practical web applications.
+I'm **Muhammed Raneesh**, a Full Stack Developer from Kerala, India.
 
-I enjoy working across both frontend and backend — from designing user interfaces and handling application state to building APIs, authentication systems and database architecture.
+I build modern web applications across the complete stack — from responsive frontend experiences to APIs, authentication, databases, and application architecture.
 
-Currently, I'm building **Nesteeq**, a multi-tenant apartment management SaaS designed to centralize residential community operations such as resident management, maintenance, billing, visitors, parking and communication.
+Currently focused on building **production-style SaaS applications** with TypeScript, Next.js and Node.js.
 
----
+<br/>
 
-### Tech
+## ⚡ Tech Stack
 
-**Frontend**
+<div align="center">
 
-`TypeScript` · `JavaScript` · `React` · `Next.js` · `Tailwind CSS` · `TanStack Query`
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,express,mongodb,redis&theme=dark" />
 
-**Backend**
+<br/><br/>
 
-`Node.js` · `Express.js` · `MongoDB` · `Mongoose` · `Redis` · `Socket.IO`
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode&theme=dark" />
 
-**Tools & Libraries**
+</div>
 
-`Git` · `GitHub` · `Postman` · `Zod` · `React Hook Form` · `Better Auth`
+<br/>
 
----
+## 🚀 Currently Building
 
-### Currently Building
+<table>
+<tr>
+<td width="100%">
 
-#### Nesteeq
+### 🏢 Nesteeq
 
-A multi-tenant apartment management platform built to simplify how residential communities manage their daily operations.
+**A modern multi-tenant apartment management SaaS.**
 
-Working on areas including:
+Nesteeq brings apartment operations into a single platform with role-based experiences for management, residents, security and maintenance teams.
 
-`Authentication` · `RBAC` · `Resident Management` · `Staff Management` · `Maintenance` · `Billing` · `Visitor Management` · `Notifications`
+`Next.js` `TypeScript` `Node.js` `Express` `MongoDB` `Redis` `Socket.IO`
 
----
+**Building around**
 
-### GitHub
+`Multi-Tenancy` · `Authentication` · `RBAC` · `Residents` · `Staff` · `Maintenance` · `Billing` · `Visitors` · `Notifications`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 GitHub
 
 <div align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=MuhammedRaneesh&show_icons=true&hide_border=true&title_color=07584F&icon_color=07584F&text_color=555555&bg_color=00000000"
-height="160"
+width="48%"
+src="https://github-readme-stats.vercel.app/api?username=MuhammedRaneesh&show_icons=true&hide_border=true&bg_color=00000000&title_color=0F8B72&icon_color=0F8B72&text_color=777777&rank_icon=github"
+/>
+
+<img
+width="48%"
+src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammedRaneesh&hide_border=true&background=00000000&ring=0F8B72&fire=13A085&currStreakLabel=0F8B72&sideLabels=777777&currStreakNum=777777&sideNums=777777&dates=777777"
 />
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-### Let's Connect
+### Contribution Activity
 
-I'm open to opportunities, collaboration and conversations around web development.
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/MuhammedRaneesh/MuhammedRaneesh/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/MuhammedRaneesh/MuhammedRaneesh/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/MuhammedRaneesh/MuhammedRaneesh/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
-**[LinkedIn](https://www.linkedin.com/in/muhammed-raneesh-k) · [GitHub](https://github.com/MuhammedRaneesh) · [Email](mailto:raneeshramankulam@gmail.com)**
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=MuhammedRaneesh&label=Profile%20Views&color=07584F&style=flat-square"/>
+
+<br/><br/>
+
+**Building · Learning · Shipping**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:13A085,50:07584F,100:041F1C"/>
 
 </div>
