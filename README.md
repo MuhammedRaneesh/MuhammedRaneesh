@@ -1,246 +1,75 @@
-<div align="center">
+<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:062F2A,45:07584F,100:14A085&height=230&section=header&text=Muhammed%20Raneesh&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Building%20real%20products&descAlignY=60&descSize=17&descColor=DDF7EF"
-width="100%"
-/>
+<h1 align="left">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
+  Hi, I'm <strong>Raneesh</strong>
+</h1>
 
-### Hey, I'm Raneesh 👋
+<h3>MERN Stack Developer</h3>
 
-**Full Stack Developer from Kerala, India 🇮🇳**
+<div align="left">
+  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
-I enjoy turning ideas into real, usable products — from database design and APIs
-to authentication, frontend architecture, dashboards, and polished user experiences.
+  <p>
+    Self-taught MERN Stack Developer who enjoys taking products from a blank repo to something real, end to end.
+    Right now I'm building Nesteeq, a multi-tenant apartment management SaaS, from the ground up.
+  </p>
 
-Currently building **Nesteeq**, a multi-tenant apartment management SaaS.
+  <p>
+    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
+    <a href="mailto:raneeshramankulam@gmail.com"><img src="https://img.shields.io/badge/📧_raneeshramankulam@gmail.com-1e1e2e?style=for-the-badge" /></a>
+    <img src="https://img.shields.io/badge/🤝_Open_to_Work-1e1e2e?style=for-the-badge" />
+  </p>
 
-<br/>
+<h3>🌐 Socials</h3>
 
-<a href="https://github.com/MuhammedRaneesh">
-  <img src="https://komarev.com/ghpvc/?username=MuhammedRaneesh&label=PROFILE%20VIEWS&color=07584F&style=for-the-badge" />
-</a>
-<img src="https://img.shields.io/badge/Open%20to-Opportunities-14A085?style=for-the-badge" />
+<p align="left">
 
+  <a href="https://github.com/MuhammedRaneesh">
+    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/muhammed-raneesh-k">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
+  </a>
+
+</p>
+
+  <img src="https://komarev.com/ghpvc/?username=MuhammedRaneesh&style=flat-square&color=blue" alt="Profile Visit"/>
 </div>
 
----
+<br clear="all" />
 
-## 👨‍💻 About Me
-
-```ts
-const raneesh = {
-  location: "Kerala, India 🇮🇳",
-  role: "Full Stack Developer",
-  focus: [
-    "Scalable Web Applications",
-    "REST APIs",
-    "Authentication & RBAC",
-    "SaaS Architecture",
-    "Clean User Experiences",
-  ],
-  currentlyBuilding: "Nesteeq",
-  mindset: "Learn. Build. Improve. Repeat.",
-};
-```
-
-* 🚀 I like building applications **end-to-end**, not just individual pages.
-* 🧠 I care about **clean architecture, maintainable code, and real-world workflows**.
-* 🔐 Interested in authentication, authorization, multi-tenant systems, and backend architecture.
-* 🎨 I enjoy building simple, modern interfaces with strong UX.
-* 🌱 Constantly improving my TypeScript, Next.js, Node.js, and system-design skills.
-* 💬 I learn best by **building real products and solving actual problems**.
-
----
-
-## 🏢 What I'm Building
-
-<div align="center">
-
-### Nesteeq
-
-**A modern multi-tenant Apartment Management SaaS**
-
-</div>
-
-Nesteeq is a full-stack platform I'm building to replace disconnected apartment-management workflows such as spreadsheets, paper registers, physical receipts, phone calls, and scattered messaging.
-
-The system is designed to bring apartment operations into one centralized platform.
-
-### Core areas
-
-`Resident Management` • `Staff Management` • `Complaints` • `Maintenance`
-
-`Billing & Payments` • `Visitor Management` • `Parking`
-
-`Notifications` • `Reports & Analytics` • `Role-Based Access`
-
-### Architecture
-
-* 🏢 Multi-tenant SaaS architecture
-* 👥 Role-based dashboards and permissions
-* ✉️ Invitation-based user onboarding
-* 🔐 Secure authentication and session management
-* ⚡ Redis caching and background processing
-* 🔔 Real-time updates and notifications
-* 💳 Online payment workflows
-* 📊 Operational reporting and analytics
-
-> I'm using Nesteeq as a real-world project to strengthen my understanding of full-stack architecture, backend workflows, database design, security, and scalable frontend development.
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=js,ts&theme=dark" />
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
-
-<br/>
-
-`shadcn/ui` • `TanStack Query` • `React Hook Form` • `Zod`
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
-
-<br/>
-
-`REST APIs` • `Better Auth` • `RBAC` • `BullMQ`
-
-### Database & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=mongodb,redis&theme=dark" />
-
-<br/>
-
-`Mongoose` • `Socket.IO`
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode&theme=dark" />
-
-<br/>
-
-`Jira` • `MongoDB Compass`
-
-</div>
-
----
-
-## 🧩 What I Like Working On
-
+## 🛠️ Skills
+<p align="center">
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center">
+<h3>💻 Programming Languages</h3>
 
-### 🎨 Frontend
-
-* Responsive application interfaces
-* Dashboard experiences
-* Reusable component architecture
-* Forms & validation
-* Server-state management
-* Role-based interfaces
-* Modern UI/UX
+<img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+<br/><br/>
 
 </td>
-<td width="50%" valign="top">
 
-### ⚙️ Backend
+<td width="50%" align="center">
+<h3>📚 Frameworks & Libraries</h3>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express,tailwind" />
+</td>
 
-* REST API architecture
-* Authentication
-* Authorization & RBAC
-* MongoDB data modeling
-* Multi-tenant systems
-* Background jobs
-* Real-time communication
+</tr>
+<tr>
+<td width="50%" align="center">
+<h3>🗄️ Databases</h3>
+<img src="https://skillicons.dev/icons?i=mongodb,redis" />
+<br/><br/>
 
+</td>
+
+<td width="50%" align="center">
+<h3>🧰 Tools & Platforms</h3>
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" />
 </td>
 </tr>
 </table>
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=MuhammedRaneesh&show_icons=true&hide_border=true&bg_color=00000000&title_color=14A085&icon_color=07584F&text_color=718096&ring_color=14A085"
-/>
-
-<img
-height="170"
-src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammedRaneesh&hide_border=true&background=00000000&ring=14A085&fire=07584F&currStreakLabel=14A085&sideLabels=718096&currStreakNum=07584F&sideNums=07584F&dates=718096"
-/>
-
-<br/><br/>
-
-<img
-width="94%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammedRaneesh&bg_color=00000000&color=718096&line=14A085&point=07584F&area=true&area_color=14A085&hide_border=true"
-/>
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-```text
-Building production-style full-stack applications
-        ↓
-Improving backend architecture
-        ↓
-Designing scalable database models
-        ↓
-Building secure authentication & RBAC
-        ↓
-Learning better system design
-        ↓
-Shipping better products
-```
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="mailto:raneeshramankulam@gmail.com">
-  <img src="https://img.shields.io/badge/Email-07584F?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/muhammed-raneesh-k">
-  <img src="https://img.shields.io/badge/LinkedIn-07584F?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/MuhammedRaneesh">
-  <img src="https://img.shields.io/badge/GitHub-0B302A?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-**I'm always interested in connecting with developers, discussing ideas,
-and working on products that solve real problems.**
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:14A085,55:07584F,100:062F2A&height=110&section=footer"
-width="100%"
-/>
-
-</div>
+</p>
