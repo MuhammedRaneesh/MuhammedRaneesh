@@ -18,7 +18,6 @@ src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:031F1C
 
 <table>
 <tr>
-
 <td width="60%" valign="middle">
 
 ## 👋 Hey, I'm Raneesh
@@ -32,7 +31,6 @@ My main focus is creating scalable and maintainable applications using **TypeScr
 I enjoy learning by building real products and improving them one feature at a time.
 
 </td>
-
 <td width="40%" align="center">
 
 <img
@@ -42,186 +40,67 @@ alt="Developer Animation"
 />
 
 </td>
-
 </tr>
 </table>
 
-<br/>
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0FA47F,100:07584F&height=2" width="100%"/>
 
 <div align="center">
 
 ## ⚡ Tech Stack
 
-<br/>
-
-### Frontend
-
-<br/>
-
-<img
-src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind&theme=dark"
-height="60"
-alt="Frontend Stack"
-/>
-
-<br/><br/>
-
-`JavaScript`   
-`TypeScript`   
-`React`   
-`Next.js`   
-`Tailwind CSS`
-
-<br/><br/><br/>
-
-### Backend
-
-<br/>
-
-<img
-src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"
-height="60"
-alt="Backend Stack"
-/>
-
-<br/><br/>
-
-`Node.js`   
-`Express.js`   
-`REST APIs`   
-`Better Auth`
-
-<br/><br/><br/>
-
-### Database & Infrastructure
-
-<br/>
-
-<img
-src="https://skillicons.dev/icons?i=mongodb,redis&theme=dark"
-height="60"
-alt="Database Stack"
-/>
-
-<br/><br/>
-
-`MongoDB`   
-`Mongoose`   
-`Redis`   
-`Socket.IO`   
-`BullMQ`
-
-<br/><br/><br/>
-
-### Tools & Libraries
-
-<br/>
-
-<img
-src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark"
-height="60"
-alt="Development Tools"
-/>
-
-<br/><br/>
-
-`Git`   
-`GitHub`   
-`VS Code`   
-`Postman`   
-`Figma`
-
-<br/><br/>
-
-`TanStack Query`   
-`React Hook Form`   
-`Zod`
+<table>
+<tr>
+<td align="center" width="25%"><b>Frontend</b><br/><br/><img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind&theme=dark" height="50"/></td>
+</tr>
+<tr>
+<td align="center"><b>Backend</b><br/><br/><img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" height="50"/><br/><sub>REST APIs · Better Auth</sub></td>
+</tr>
+<tr>
+<td align="center"><b>Database & Infra</b><br/><br/><img src="https://skillicons.dev/icons?i=mongodb,redis&theme=dark" height="50"/><br/><sub>Mongoose · Socket.IO · BullMQ</sub></td>
+</tr>
+<tr>
+<td align="center"><b>Tools</b><br/><br/><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" height="50"/><br/><sub>TanStack Query · React Hook Form · Zod</sub></td>
+</tr>
+</table>
 
 </div>
 
-<br/>
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0FA47F,100:07584F&height=2" width="100%"/>
 
 <div align="center">
 
 ## 🌐 Connect With Me
 
-<br/>
-
 <a href="https://www.linkedin.com/in/muhammed-raneesh-k">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-&nbsp;
-
 <a href="https://github.com/MuhammedRaneesh">
-  <img
-    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-&nbsp;
-
 <a href="https://leetcode.com/u/_MuhammedRaneesh_/">
-  <img
-    src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
-    alt="LeetCode"
-  />
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
-&nbsp;
-
 <a href="https://www.instagram.com/_raneeshx_/">
-  <img
-    src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-    alt="Instagram"
-  />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
-&nbsp;
-
 <a href="mailto:raneeshramankulam@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Email"
-  />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-&nbsp;
-
-<img
-src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
-alt="Discord"
-/>
-
-<br/><br/>
-
-`raneeshff8932`
+<img src="https://img.shields.io/badge/Discord-raneeshff8932-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 
 </div>
 
 <br/>
 
----
-
 <div align="center">
 
-<img
-src="https://komarev.com/ghpvc/?username=MuhammedRaneesh&label=Profile%20Views&color=07584F&style=flat-square"
-alt="Profile Views"
-/>
+<img src="https://komarev.com/ghpvc/?username=MuhammedRaneesh&label=Profile%20Views&color=07584F&style=flat-square" alt="Profile Views"/>
 
 <br/><br/>
 
 ### `Code • Build • Improve`
 
-<br/>
-
-<img
-width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:0FA47F,55:07584F,100:031F1C"
-/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:0FA47F,55:07584F,100:031F1C"/>
 
 </div>
