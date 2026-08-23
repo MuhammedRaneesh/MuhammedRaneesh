@@ -1,54 +1,83 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14A085,100:0A4A3B&height=200&section=header&text=Raneesh&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
+# Muhammed Raneesh
 
-<h3>MERN Stack Developer · Kerala, India</h3>
+### Full Stack Developer
 
-<img src="https://img.shields.io/badge/Open_to_Work-14A085?style=for-the-badge"/>
-<img src="https://komarev.com/ghpvc/?username=MuhammedRaneesh&label=Visitors&color=14A085&style=for-the-badge"/>
+Kerala, India 🇮🇳
+
+Building modern web applications with **TypeScript, React, Next.js, Node.js and MongoDB**.
+
+<br/>
+
+<a href="mailto:raneeshramankulam@gmail.com">
+  <img src="https://img.shields.io/badge/Email-07584F?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/muhammed-raneesh-k">
+  <img src="https://img.shields.io/badge/LinkedIn-07584F?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
 
 </div>
 
-<br/>
+---
 
-Self-taught MERN Stack Developer who likes turning an empty repo into something people actually use. Currently building **Nesteeq**, a multi-tenant apartment management SaaS, from the ground up — architecture, auth, and everything in between.
+### About
 
-<br/>
+I'm a full-stack developer focused on building clean, scalable and practical web applications.
 
-<table align="center">
-<tr>
-<td align="center" width="20%"><img src="https://skillicons.dev/icons?i=js" width="45"/><br/>JavaScript</td>
-<td align="center" width="20%"><img src="https://skillicons.dev/icons?i=ts" width="45"/><br/>TypeScript</td>
-<td align="center" width="20%"><img src="https://skillicons.dev/icons?i=react" width="45"/><br/>React</td>
-<td align="center" width="20%"><img src="https://skillicons.dev/icons?i=nextjs" width="45"/><br/>Next.js</td>
-<td align="center" width="20%"><img src="https://skillicons.dev/icons?i=nodejs" width="45"/><br/>Node.js</td>
-</tr>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=express" width="45"/><br/>Express</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="45"/><br/>MongoDB</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=redis" width="45"/><br/>Redis</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br/>Tailwind</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=git" width="45"/><br/>Git</td>
-</tr>
-</table>
+I enjoy working across both frontend and backend — from designing user interfaces and handling application state to building APIs, authentication systems and database architecture.
 
-<br/>
+Currently, I'm building **Nesteeq**, a multi-tenant apartment management SaaS designed to centralize residential community operations such as resident management, maintenance, billing, visitors, parking and communication.
+
+---
+
+### Tech
+
+**Frontend**
+
+`TypeScript` · `JavaScript` · `React` · `Next.js` · `Tailwind CSS` · `TanStack Query`
+
+**Backend**
+
+`Node.js` · `Express.js` · `MongoDB` · `Mongoose` · `Redis` · `Socket.IO`
+
+**Tools & Libraries**
+
+`Git` · `GitHub` · `Postman` · `Zod` · `React Hook Form` · `Better Auth`
+
+---
+
+### Currently Building
+
+#### Nesteeq
+
+A multi-tenant apartment management platform built to simplify how residential communities manage their daily operations.
+
+Working on areas including:
+
+`Authentication` · `RBAC` · `Resident Management` · `Staff Management` · `Maintenance` · `Billing` · `Visitor Management` · `Notifications`
+
+---
+
+### GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MuhammedRaneesh&show_icons=true&theme=transparent&hide_border=true&title_color=14A085&icon_color=14A085&text_color=333333&ring_color=14A085" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammedRaneesh&hide_border=true&background=00000000&ring=14A085&fire=14A085&currStreakLabel=14A085&sideLabels=333333&currStreakNum=333333&sideNums=333333&dates=999999" height="160"/>
+<img
+src="https://github-readme-stats.vercel.app/api?username=MuhammedRaneesh&show_icons=true&hide_border=true&title_color=07584F&icon_color=07584F&text_color=555555&bg_color=00000000"
+height="160"
+/>
 
 </div>
 
-<br/>
+---
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/raneeshramankulam@gmail.com-14A085?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raneeshramankulam@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-raneesh-k)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammedRaneesh)
+### Let's Connect
+
+I'm open to opportunities, collaboration and conversations around web development.
+
+**[LinkedIn](https://www.linkedin.com/in/muhammed-raneesh-k) · [GitHub](https://github.com/MuhammedRaneesh) · [Email](mailto:raneeshramankulam@gmail.com)**
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A4A3B,100:14A085&height=100&section=footer" width="100%"/>
