@@ -10,7 +10,7 @@
 
 <br/>
 
-Hey, I'm Raneesh 👋 — a MERN Stack Developer based in Kerala, India. I'm self-taught, backend-leaning, and currently building **Nesteeq**, a multi-tenant apartment management SaaS. Outside of code, I'm into Formula 1 and deep-sea exploration.
+Hey, I'm Raneesh 👋 — a self-taught MERN Stack Developer based in Kerala, India. I like taking products from a blank repo to something real end to end — right now that's **Nesteeq**, a multi-tenant apartment management SaaS I'm building from the ground up.
 
 <br/>
 
@@ -18,7 +18,17 @@ Hey, I'm Raneesh 👋 — a MERN Stack Developer based in Kerala, India. I'm sel
 
 ### 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,nodejs,express,mongodb,redis,socketio,git,github,postman,figma,vscode&theme=light&perline=8"/>
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind&theme=light&perline=6" height="60"/>
+
+**Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,socketio&theme=light&perline=5" height="60"/>
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode&theme=light&perline=5" height="60"/>
 
 </div>
 
