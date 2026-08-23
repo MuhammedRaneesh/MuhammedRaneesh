@@ -2,7 +2,7 @@
 
 <img
 width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:031F1C,45:07584F,100:0FA47F&text=Muhammed%20Raneesh&fontColor=FFFFFF&fontSize=46&fontAlignY=36&animation=fadeIn"
+src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:1A1A2E,50:16213E,100:0F3460&text=Muhammed%20Raneesh&fontColor=FFFFFF&fontSize=48&fontAlignY=40&animation=fadeIn"
 />
 
 <a href="https://git.io/typing-svg">
@@ -16,9 +16,7 @@ src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:031F1C
 
 <br/>
 
-<table>
-<tr>
-<td width="60%" valign="middle">
+<img align="right" width="280" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif?raw=true" alt="Developer Animation"/>
 
 ## 👋 Hey, I'm Raneesh
 
@@ -30,43 +28,47 @@ My main focus is creating scalable and maintainable applications using **TypeScr
 
 I enjoy learning by building real products and improving them one feature at a time.
 
-</td>
-<td width="40%" align="center">
+<br clear="right"/>
 
-<img
-width="300"
-src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif?raw=true"
-alt="Developer Animation"
-/>
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0FA47F,100:07584F&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F3460,100:16213E&height=2" width="100%"/>
 
 <div align="center">
 
 ## ⚡ Tech Stack
 
-<table>
-<tr>
-<td align="center" width="25%"><b>Frontend</b><br/><br/><img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind&theme=dark" height="50"/></td>
-</tr>
-<tr>
-<td align="center"><b>Backend</b><br/><br/><img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" height="50"/><br/><sub>REST APIs · Better Auth</sub></td>
-</tr>
-<tr>
-<td align="center"><b>Database & Infra</b><br/><br/><img src="https://skillicons.dev/icons?i=mongodb,redis&theme=dark" height="50"/><br/><sub>Mongoose · Socket.IO · BullMQ</sub></td>
-</tr>
-<tr>
-<td align="center"><b>Tools</b><br/><br/><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" height="50"/><br/><sub>TanStack Query · React Hook Form · Zod</sub></td>
-</tr>
-</table>
+<br/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind&theme=dark" height="50"/>
+
+<br/><br/>
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" height="50"/>
+<br/>
+<sub>REST APIs · Better Auth</sub>
+
+<br/><br/>
+
+**Database & Infra**
+
+<img src="https://skillicons.dev/icons?i=mongodb,redis&theme=dark" height="50"/>
+<br/>
+<sub>Mongoose · Socket.IO · BullMQ</sub>
+
+<br/><br/>
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" height="50"/>
+<br/>
+<sub>TanStack Query · React Hook Form · Zod</sub>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0FA47F,100:07584F&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F3460,100:16213E&height=2" width="100%"/>
 
 <div align="center">
 
@@ -95,12 +97,12 @@ alt="Developer Animation"
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=MuhammedRaneesh&label=Profile%20Views&color=07584F&style=flat-square" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=MuhammedRaneesh&label=Profile%20Views&color=0F3460&style=flat-square" alt="Profile Views"/>
 
 <br/><br/>
 
 ### `Code • Build • Improve`
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:0FA47F,55:07584F,100:031F1C"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=105&section=footer&color=0:0F3460,50:16213E,100:1A1A2E"/>
 
 </div>
