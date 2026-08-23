@@ -2,7 +2,7 @@
 
 <img
 width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:031F1C,45:07584F,100:0FA47F&text=Muhammed%20Raneesh&fontColor=FFFFFF&fontSize=46&fontAlignY=36&animation=fadeIn"
+src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:031F1C,45:07584F,100:0FA47F&text=Muhammed%20Raneesh&fontColor=FFFFFF&fontSize=46&fontAlignY=36&animation=fadeIn"
 />
 
 <a href="https://git.io/typing-svg">
@@ -19,24 +19,24 @@ src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:031F1C
 <table>
 <tr>
 
-<td width="60%" valign="middle">
+<td width="58%" valign="middle">
 
 ## 👋 Hey, I'm Raneesh
 
 I'm **Muhammed Raneesh**, a Full Stack Developer from Kerala, India 🇮🇳.
 
-I enjoy building complete web applications — from polished user interfaces to APIs, authentication, databases, and backend systems.
+I build modern full-stack applications with a strong focus on clean interfaces, scalable APIs, authentication, databases, and maintainable application architecture.
 
-My main focus is working with **TypeScript, React, Next.js, Node.js, and MongoDB** while continuously improving my understanding of scalable application architecture.
+Currently working mainly with **TypeScript, React, Next.js, Node.js and MongoDB**.
 
 </td>
 
-<td width="40%" align="center">
+<td width="42%" align="center">
 
 <img
-width="290"
-src="./assets/developer.png"
-alt="Developer Illustration"
+width="310"
+src="./assets/developer-3d.png"
+alt="3D Developer Character"
 />
 
 </td>
@@ -50,88 +50,75 @@ alt="Developer Illustration"
 
 <div align="center">
 
-# ⚡ Tech Stack
+## ⚡ Tech Stack
 
 <br/>
 
-### 🎨 Frontend
+### Frontend
 
 <br/>
 
 <img
-src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind&theme=dark"
-height="60"
+src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind&theme=dark"
+height="62"
+alt="Frontend Technologies"
 />
 
 <br/><br/>
 
-**TypeScript**    •   
-**JavaScript**    •   
-**React**    •   
-**Next.js**    •   
-**Tailwind CSS**
+`JavaScript`   `TypeScript`   `React`   `Next.js`   `Tailwind CSS`
 
 <br/><br/><br/>
 
-### ⚙️ Backend
+### Backend
 
 <br/>
 
 <img
 src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"
-height="60"
+height="62"
+alt="Backend Technologies"
 />
 
 <br/><br/>
 
-**Node.js**    •   
-**Express.js**    •   
-**REST APIs**    •   
-**Better Auth**
+`Node.js`   `Express.js`   `REST APIs`   `Better Auth`
 
 <br/><br/><br/>
 
-### 🗄️ Database & Infrastructure
+### Database & Infrastructure
 
 <br/>
 
 <img
 src="https://skillicons.dev/icons?i=mongodb,redis&theme=dark"
-height="60"
+height="62"
+alt="Database Technologies"
 />
 
 <br/><br/>
 
-**MongoDB**    •   
-**Mongoose**    •   
-**Redis**    •   
-**Socket.IO**    •   
-**BullMQ**
+`MongoDB`   `Mongoose`   `Redis`   `Socket.IO`   `BullMQ`
 
 <br/><br/><br/>
 
-### 🛠️ Tools & Libraries
+### Tools
 
 <br/>
 
 <img
 src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark"
-height="60"
+height="62"
+alt="Development Tools"
 />
 
 <br/><br/>
 
-**Git**    •   
-**GitHub**    •   
-**VS Code**    •   
-**Postman**    •   
-**Figma**
+`Git`   `GitHub`   `VS Code`   `Postman`   `Figma`
 
 <br/><br/>
 
-`TanStack Query`    •   
-`React Hook Form`    •   
-`Zod`
+`TanStack Query`   `React Hook Form`   `Zod`
 
 </div>
 
@@ -141,86 +128,79 @@ height="60"
 
 <div align="center">
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/muhammed-raneesh-k">
   <img
-    width="65"
-    src="https://cdn.simpleicons.org/linkedin/0A66C2"
+    src="./assets/social/linkedin.png"
+    width="55"
+    height="55"
     alt="LinkedIn"
   />
 </a>
-
-      
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/MuhammedRaneesh">
   <img
-    width="65"
-    src="https://cdn.simpleicons.org/github/8B949E"
+    src="./assets/social/github.png"
+    width="55"
+    height="55"
     alt="GitHub"
   />
 </a>
-
-      
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://leetcode.com/u/_MuhammedRaneesh_/">
   <img
-    width="65"
-    src="https://cdn.simpleicons.org/leetcode/FFA116"
+    src="./assets/social/leetcode.png"
+    width="55"
+    height="55"
     alt="LeetCode"
   />
 </a>
-
-<br/><br/>
-
-**LinkedIn**
-        
-**GitHub**
-        
-**LeetCode**
-
-<br/><br/><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/_raneeshx_/">
   <img
-    width="65"
-    src="https://cdn.simpleicons.org/instagram/E4405F"
+    src="./assets/social/instagram.png"
+    width="55"
+    height="55"
     alt="Instagram"
   />
 </a>
-
-      
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:raneeshramankulam@gmail.com">
   <img
-    width="65"
-    src="https://cdn.simpleicons.org/gmail/EA4335"
+    src="./assets/social/gmail.png"
+    width="55"
+    height="55"
     alt="Email"
   />
 </a>
-
-      
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <img
-width="65"
-src="https://cdn.simpleicons.org/discord/5865F2"
+src="./assets/social/discord.png"
+width="55"
+height="55"
 alt="Discord"
 />
 
 <br/><br/>
 
-**Instagram**
-       
-**Email**
-       
+**LinkedIn**    
+**GitHub**    
+**LeetCode**    
+**Instagram**    
+**Email**    
 **Discord**
 
 <br/><br/>
 
-`_raneeshx_`    •   
-`raneeshff8932`
+Discord — `raneeshff8932`
 
 </div>
 
@@ -232,17 +212,19 @@ alt="Discord"
 
 <img
 src="https://komarev.com/ghpvc/?username=MuhammedRaneesh&label=Profile%20Views&color=07584F&style=flat-square"
+alt="Profile Views"
 />
 
 <br/><br/>
 
-### Code • Build • Improve
+### `Code • Build • Improve`
 
 <br/>
 
 <img
 width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=115&section=footer&color=0:0FA47F,55:07584F,100:031F1C"
+src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:0FA47F,55:07584F,100:031F1C"
 />
 
 </div>
+
