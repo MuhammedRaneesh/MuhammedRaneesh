@@ -1,13 +1,13 @@
 <div align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:052E2B,45:07584F,100:16A085&height=190&section=header&text=Muhammed%20Raneesh&fontSize=45&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn"
 width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:031F1C,45:07584F,100:0FA47F&text=Muhammed%20Raneesh&fontColor=FFFFFF&fontSize=46&fontAlignY=36&animation=fadeIn"
 />
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=0F8B72&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Building+modern+web+applications;From+ideas+to+real+products"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=0F9D7D&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+modern+web+applications;Turning+ideas+into+real+products"
     alt="Typing animation"
   />
 </a>
@@ -16,208 +16,233 @@ width="100%"
 
 <br/>
 
-<img
-align="right"
-alt="Developer coding"
-width="310"
-src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif?raw=true"
-/>
-
-### 👋 Hey, I'm Muhammed Raneesh
-
-I'm a **Full Stack Developer** from Kerala, India 🇮🇳.
-
-I enjoy building complete web applications — from polished frontend experiences to APIs, authentication, databases and backend architecture.
-
-My main focus is **TypeScript, React, Next.js and Node.js**, while continuously improving how I design and structure production-style applications.
-
-Currently building **Nesteeq**, a multi-tenant SaaS platform for apartment and residential community management.
-
-<br clear="right"/>
-
----
-
-## ⚙️ Technology Stack
-
 <table>
 <tr>
-<td width="50%" valign="top">
 
-### 💻 Languages
+<td width="60%" valign="middle">
 
-<br/>
+## 👋 Hey, I'm Raneesh
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js&theme=dark" />
-</p>
+I'm **Muhammed Raneesh**, a Full Stack Developer from Kerala, India 🇮🇳.
 
-<p align="center">
-  <b>TypeScript &nbsp;•&nbsp; JavaScript</b>
-</p>
+I enjoy building complete web applications — from polished user interfaces to APIs, authentication, databases, and backend systems.
+
+My main focus is working with **TypeScript, React, Next.js, Node.js, and MongoDB** while continuously improving my understanding of scalable application architecture.
 
 </td>
 
-<td width="50%" valign="top">
+<td width="40%" align="center">
+
+<img
+width="290"
+src="./assets/developer.png"
+alt="Developer Illustration"
+/>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+---
+
+<div align="center">
+
+# ⚡ Tech Stack
+
+<br/>
 
 ### 🎨 Frontend
 
 <br/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
-</p>
+<img
+src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind&theme=dark"
+height="60"
+/>
 
-<p align="center">
-  <b>React &nbsp;•&nbsp; Next.js &nbsp;•&nbsp; Tailwind CSS</b>
-</p>
+<br/><br/>
 
-</td>
-</tr>
+**TypeScript**    •   
+**JavaScript**    •   
+**React**    •   
+**Next.js**    •   
+**Tailwind CSS**
 
-<tr>
-<td width="50%" valign="top">
+<br/><br/><br/>
 
-### ⚡ Backend
+### ⚙️ Backend
 
 <br/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
-</p>
+<img
+src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"
+height="60"
+/>
 
-<p align="center">
-  <b>Node.js &nbsp;•&nbsp; Express.js</b>
-</p>
+<br/><br/>
 
-</td>
+**Node.js**    •   
+**Express.js**    •   
+**REST APIs**    •   
+**Better Auth**
 
-<td width="50%" valign="top">
+<br/><br/><br/>
 
 ### 🗄️ Database & Infrastructure
 
 <br/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,redis&theme=dark" />
-</p>
-
-<p align="center">
-  <b>MongoDB &nbsp;•&nbsp; Redis &nbsp;•&nbsp; Socket.IO</b>
-</p>
-
-</td>
-</tr>
-</table>
-
-### 🧰 Development Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" />
+<img
+src="https://skillicons.dev/icons?i=mongodb,redis&theme=dark"
+height="60"
+/>
 
 <br/><br/>
 
-`TanStack Query`  •  `React Hook Form`  •  `Zod`  •  `Better Auth`  •  `Mongoose`
+**MongoDB**    •   
+**Mongoose**    •   
+**Redis**    •   
+**Socket.IO**    •   
+**BullMQ**
 
-</div>
+<br/><br/><br/>
 
----
+### 🛠️ Tools & Libraries
 
-## 🚀 Featured Project
+<br/>
 
-<div align="center">
+<img
+src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark"
+height="60"
+/>
 
-### 🏢 Nesteeq
+<br/><br/>
 
-**Multi-Tenant Apartment Management SaaS**
+**Git**    •   
+**GitHub**    •   
+**VS Code**    •   
+**Postman**    •   
+**Figma**
 
-`Next.js`   `TypeScript`   `Node.js`   `Express`   `MongoDB`   `Redis`
+<br/><br/>
+
+`TanStack Query`    •   
+`React Hook Form`    •   
+`Zod`
 
 </div>
 
 <br/>
 
-Nesteeq is a full-stack platform I'm building to bring apartment community operations into one centralized system.
-
-It includes role-based experiences for property management, residents, staff, security and maintenance teams.
-
-<div align="center">
-
-`Multi-Tenancy`
-
-`Authentication`   `RBAC`   `Resident Management`   `Staff Management`
-
-`Complaints`   `Maintenance`   `Billing & Payments`
-
-`Visitors`   `Parking`   `Notifications`   `Reports`
-
-</div>
-
 ---
 
-## 📊 GitHub
-
 <div align="center">
 
-<img
-width="48%"
-src="https://github-readme-stats.vercel.app/api?username=MuhammedRaneesh&show_icons=true&hide_border=true&bg_color=00000000&title_color=0F8B72&icon_color=0F8B72&text_color=777777&ring_color=0F8B72"
-/>
+# 🌐 Connect With Me
 
-<img
-width="48%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedRaneesh&layout=compact&hide_border=true&bg_color=00000000&title_color=0F8B72&text_color=777777"
-/>
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/muhammed-raneesh-k">
-  <img src="https://img.shields.io/badge/LinkedIn-Muhammed%20Raneesh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img
+    width="65"
+    src="https://cdn.simpleicons.org/linkedin/0A66C2"
+    alt="LinkedIn"
+  />
 </a>
+
+      
 
 <a href="https://github.com/MuhammedRaneesh">
-  <img src="https://img.shields.io/badge/GitHub-MuhammedRaneesh-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img
+    width="65"
+    src="https://cdn.simpleicons.org/github/8B949E"
+    alt="GitHub"
+  />
 </a>
 
-<br/><br/>
+      
 
 <a href="https://leetcode.com/u/_MuhammedRaneesh_/">
-  <img src="https://img.shields.io/badge/LeetCode-_MuhammedRaneesh_-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
-<a href="https://www.instagram.com/_raneeshx_/">
-  <img src="https://img.shields.io/badge/Instagram-_raneeshx_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img
+    width="65"
+    src="https://cdn.simpleicons.org/leetcode/FFA116"
+    alt="LeetCode"
+  />
 </a>
 
 <br/><br/>
 
-<a href="mailto:raneeshramankulam@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-07584F?style=for-the-badge&logo=gmail&logoColor=white" />
+**LinkedIn**
+        
+**GitHub**
+        
+**LeetCode**
+
+<br/><br/><br/>
+
+<a href="https://www.instagram.com/_raneeshx_/">
+  <img
+    width="65"
+    src="https://cdn.simpleicons.org/instagram/E4405F"
+    alt="Instagram"
+  />
 </a>
 
-<img src="https://img.shields.io/badge/Discord-raneeshff8932-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+      
+
+<a href="mailto:raneeshramankulam@gmail.com">
+  <img
+    width="65"
+    src="https://cdn.simpleicons.org/gmail/EA4335"
+    alt="Email"
+  />
+</a>
+
+      
+
+<img
+width="65"
+src="https://cdn.simpleicons.org/discord/5865F2"
+alt="Discord"
+/>
+
+<br/><br/>
+
+**Instagram**
+       
+**Email**
+       
+**Discord**
+
+<br/><br/>
+
+`_raneeshx_`    •   
+`raneeshff8932`
 
 </div>
 
 <br/>
 
+---
+
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=MuhammedRaneesh&label=Profile%20Views&color=07584F&style=flat-square" />
+<img
+src="https://komarev.com/ghpvc/?username=MuhammedRaneesh&label=Profile%20Views&color=07584F&style=flat-square"
+/>
 
 <br/><br/>
 
-<sub>Building thoughtful software, one feature at a time.</sub>
+### Code • Build • Improve
 
-</div>
+<br/>
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:16A085,55:07584F,100:052E2B&height=100&section=footer"
 width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&height=115&section=footer&color=0:0FA47F,55:07584F,100:031F1C"
 />
+
+</div>
